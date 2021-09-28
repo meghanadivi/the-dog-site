@@ -26,9 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-! This is an <h1> tag
-! This is an <h2> tag
-!This is an <h6> tag
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
