@@ -20,15 +20,17 @@ Syntax highlighted code block
 
 1. Numbered List
 
+[link](https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fyc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-![Image of car](https://media.npr.org/assets/img/2019/10/25/dog-1_wide-7aa8e057f406eb76e16c3e43924ed7c635bfd175.jpg?s=1400)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+! This is an <h1> tag
+! This is an <h2> tag
+!This is an <h6> tag
 
-![Image of dog](http://cdn.shopify.com/s/files/1/0067/6164/4091/articles/Jumping_dog_1200x1200.png?v=1593118273)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
