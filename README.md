@@ -27,7 +27,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-[![Adog](https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fyc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
+[![Adog](https://static01.nyt.com/images/2021/02/01/opinion/01renkl1/merlin_182819985_e25e4d1e-e41a-4956-8f76-89471400d109-superJumbo.jpg)
+
+[![Adogg](http://cdn.shopify.com/s/files/1/0067/6164/4091/articles/Jumping_dog_1200x1200.png?v=1593118273) 
 
 
 ### Jekyll Themes
