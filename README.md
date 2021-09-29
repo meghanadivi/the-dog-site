@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [![Adogg](http://cdn.shopify.com/s/files/1/0067/6164/4091/articles/Jumping_dog_1200x1200.png?v=1593118273) 
 
 
-My favorite search engine is [let'sgo](https://www.companionanimalpsychology.com/p/all-about-dogs.html).
+My favorite search engine is [thisdogwebsite](https://www.companionanimalpsychology.com/p/all-about-dogs.html).
 
 
 ### Jekyll Themes
